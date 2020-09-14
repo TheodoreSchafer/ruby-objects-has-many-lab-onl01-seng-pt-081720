@@ -14,6 +14,9 @@ class Song
   end
 
   def artist_name
+  end
+
+  def self.all
   end 
 
 
