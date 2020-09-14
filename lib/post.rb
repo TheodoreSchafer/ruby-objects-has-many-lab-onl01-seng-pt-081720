@@ -9,9 +9,9 @@ class Post
   end
 
   def author_name
-  end 
+  end
 
   def self.all
-  endx
+  end
 
 end
