@@ -7,6 +7,6 @@ class Artist
     @name = name
     @songs = []
   end
-  binding.pry
+
 
 end
