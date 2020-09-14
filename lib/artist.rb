@@ -3,7 +3,7 @@ class Artist
 
   def initialize(name)
     @name = name
-    end
+  end
 
   def songs
     Song.all.select do |song|
